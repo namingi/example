@@ -1,3 +1,3 @@
 # example update
 
-css got so much better!
+HTML & CSS 연습용
